@@ -1,0 +1,1 @@
+d|collatz(num):\ p(num)\ w|n>1:\  i|num%2==1:\   num=3*num+1\   p(n)\  e:\   n=n//2\   p(n)\collatz(8)

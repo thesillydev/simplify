@@ -1,0 +1,9 @@
+a?s()\i|a="0":\ p("0")\ b\e:\ w|T:\  p("1")
+*
+Ok it seems complicated but not really tho
+this character mess is the result of shorting everything into one line
+I will make it look clearer
+    | is the space, i used it because the space char already corresponds to the tab char
+    \ is the newline char
+Pretty simple, right?
+*

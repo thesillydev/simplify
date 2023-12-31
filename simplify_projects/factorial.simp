@@ -1,0 +1,1 @@
+d|fac(num):\ i|num==1:\  r|1\ e:\  r|num*fac(num-1)\p(fac(10))

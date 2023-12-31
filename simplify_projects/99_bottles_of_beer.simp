@@ -1,0 +1,6 @@
+f|j|n|#(r(2, 100)):\
+ p(t"{j} bottles of beer on the wall, {j} bottles of beer.\nTake one down and pass it around, {j-1} bottles of beer on the wall\n")\
+p("1 bottle of beer on the wall, 1 bottle of beer.\n")\
+p("Take one down and pass it around, no more bottles of beer on the wall.\n")\
+p("No more bottles of beer on the wall, no more bottles of beer.\n")\
+p("Go to the store and buy some more, 99 bottles of beer on the wall.\n")
